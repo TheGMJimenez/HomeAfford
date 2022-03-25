@@ -1,0 +1,12 @@
+Package: AffordHome
+Type: Package
+Title: Home Affordability based on Debt to Income Ratio
+Version: 0.1.0
+Author: G. Jimenez
+Maintainer: G. Jimenez <gmjimenez@usf.edu>
+Description: As we know, the pandemic has caused an awakening in the rise for cost of
+living when it comes to affording a roof over your head.The main intention of this package
+is to help calculate affordability of a month to month rent or mortage expense. 
+License: CC0 1.0
+Encoding: UTF-8
+LazyData: true
